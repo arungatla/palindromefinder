@@ -9,7 +9,7 @@ text-align: center;
 font-size: 150%;
 }
 h2{
-border: 1px solid black;
+/* border: 1px solid black; */
 border-radius: 10%;
 padding:10px;
 width: 50%;
